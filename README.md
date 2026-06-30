@@ -30,7 +30,7 @@ Saved Places become cluttered as users save more locations, making retrieval and
 The redesign reduces manual organization, improves retrieval, and supports collaborative planning.
 
 ## Full Case Study
-📄 [View the PDF](Saved_Places_Case_Study.pdf)
+📄 [View the PDF](saved_places_case_study.pdf)
 
 ## Tools
 Microsoft Word
